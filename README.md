@@ -2,8 +2,8 @@
 - 👀 I’m interested in Automation Testing
 - 🌱 I’m currently learning Cypress.io
 - 📫 You can reach me on
-  waleedfawzy777@gmail.com 
-  linkedin.com/in/waleedfawzy/
+   waleedfawzy777@gmail.com 
+   linkedin.com/in/waleedfawzy
 
 <!---
 WalidFawzi/WalidFawzi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
