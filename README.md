@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Walid Fawzi , An ISTQB Certified Tester (CTFL, CTFL-AT، CTAL-TA) holding a bachelor's degree in Computer Science with 7 years of experience in software testing
+- 👋 Hi, I’m Walid Fawzi , An ISTQB Certified Tester (CTFL, CTFL-AT، CTAL-TA) holding a bachelor's degree in Computer Science with 8 years of experience in software testing
 - 👀 I’m interested in Automation Testing
 - 🌱 I’m currently learning Cypress.io
 - 📫 You can reach me on
